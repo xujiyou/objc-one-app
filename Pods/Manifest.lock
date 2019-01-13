@@ -1,0 +1,34 @@
+PODS:
+  - "FontAwesome+iOS (0.0.1)"
+  - Masonry (1.1.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - "FontAwesome+iOS (from `https://github.com/alexdrone/ios-fontawesome`)"
+  - Masonry
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  "FontAwesome+iOS":
+    :git: https://github.com/alexdrone/ios-fontawesome
+
+CHECKOUT OPTIONS:
+  "FontAwesome+iOS":
+    :commit: 3ef4db504ffde636c1f8a5320f1e5b6183f6102c
+    :git: https://github.com/alexdrone/ios-fontawesome
+
+SPEC CHECKSUMS:
+  "FontAwesome+iOS": c6d3bbd2856b9633028d316d56133d45fb6a6cb0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: ee3f9c6d375cfecc1114c2dfbf5ce9731238887b
+
+COCOAPODS: 1.5.3
